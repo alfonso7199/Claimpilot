@@ -1,0 +1,31 @@
+CONDITIONS COMMON TO ALL POLICIES - CLAIMS PROCEDURE
+Fictitious Insurer Inc. (synthetic document for demo)
+
+Art. 1. Notice of the claim.
+1.1 The insured must report the claim within a maximum of 7 days from when they
+became aware of it.
+1.2 The notice must include, at a minimum: policy number, incident date and a
+description of what happened. Without this data, processing cannot begin.
+
+Art. 2. Processing and routes.
+2.1 Fast track (direct payment / straight-through): low-amount claims, with clear
+coverage and no indications of fraud.
+2.2 Adjuster route: medium- or high-amount claims, complex damage or nuanced
+coverage.
+2.3 Investigation route: claims with indications of fraud or inconsistencies in
+the declaration.
+
+Art. 3. Indicators of possible fraud (enhanced review).
+3.1 Imprecise or contradictory incident dates.
+3.2 Absence of police report, witnesses or documentation in high-amount claims.
+3.3 Unusual pressure for a quick payout.
+3.4 Request for payment to an account different from the one on file.
+3.5 Inconsistencies between the declared damage and the account of the claim.
+
+Art. 4. Payment of the indemnity.
+4.1 Payments are made, as a general rule, to the bank account on file in the
+policy, unless a verified change is authorized.
+
+Art. 5. Good faith.
+5.1 The deliberate provision of false or incomplete data entitles the insurer to
+reject the claim in accordance with the Insurance Contract Act.

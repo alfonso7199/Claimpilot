@@ -1,0 +1,42 @@
+AUTO INSURANCE POLICY - GENERAL TERMS AND CONDITIONS
+Fictitious Insurer Inc. (synthetic document for demo)
+Line: AUTO. Policy prefix: AUTO-2026-xxxxx
+
+Art. 1. Purpose.
+This policy covers the material damage suffered by the insured vehicle and the
+civil liability towards third parties arising from its circulation.
+
+Art. 2. Included coverages.
+2.1 Mandatory and voluntary civil liability.
+2.2 Own damage from collision, impact or rollover.
+2.3 Glass breakage.
+2.4 Theft and larceny of the vehicle (see Art. 5, specific conditions).
+2.5 Fire.
+
+Art. 3. Collision damage.
+3.1 Material damage to the insured vehicle caused by collision with another
+vehicle or object is covered, whether in circulation or parked.
+3.2 Indemnity limit per own-damage claim: EUR 30,000.
+3.3 Deductible applicable to own collision damage: EUR 300 per claim.
+3.4 When there is an identified liable third party, the deductible may be
+reimbursed after the claim against the liable party.
+
+Art. 4. Loss adjusting.
+4.1 Claims with an estimated repair cost above EUR 2,000 will require the
+intervention of an adjuster before payment.
+4.2 Claims below EUR 2,000 with clear liability may be processed via the fast
+track (direct payment) without an on-site adjustment.
+
+Art. 5. Vehicle theft.
+5.1 Theft coverage requires that a report be filed with the police authorities
+within a maximum of 48 hours from when the event was detected.
+5.2 The insured must hand over all sets of keys to the vehicle.
+5.3 Payment is excluded if no official police report is provided or if there are
+indications of a staged claim.
+5.4 The amount will be paid, unless proven otherwise, to the bank account on file
+in the policy.
+
+Art. 6. General exclusions.
+6.1 Damage caused intentionally by the insured.
+6.2 Claims declared with deliberately false or incomplete data.
+6.3 Driving under the influence of alcohol or drugs.

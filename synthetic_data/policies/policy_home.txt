@@ -1,0 +1,38 @@
+HOME INSURANCE POLICY - GENERAL TERMS AND CONDITIONS
+Fictitious Insurer Inc. (synthetic document for demo)
+Line: HOME. Policy prefix: HOME-2026-xxxxx
+
+Art. 1. Purpose.
+Covers material damage to the insured home and its contents, as well as the civil
+liability of the insured in the domestic sphere.
+
+Art. 2. Included coverages.
+2.1 Water damage.
+2.2 Fire, explosion and lightning strike.
+2.3 Theft and robbery of the contents.
+2.4 Family civil liability.
+2.5 Breakage of glass and sanitary fittings.
+
+Art. 3. Water damage.
+3.1 Material damage caused by accidental leaks, bursts or overflows of the home's
+water pipes is covered.
+3.2 Repair of floors, walls and furniture damaged by the water is included.
+3.3 Indemnity limit for water damage: EUR 15,000 per claim.
+3.4 Deductible applicable to water damage: EUR 150 per claim.
+3.5 Locating and repairing the fault that caused the leak (e.g. replacing a hose)
+is covered up to EUR 500.
+
+Art. 4. Obligations of the insured.
+4.1 Take the necessary measures to mitigate the consequences of the claim (e.g.
+shutting off the main stopcock).
+4.2 Keep the remains and parts that caused the damage when possible, available to
+the adjuster.
+
+Art. 5. Loss adjusting.
+5.1 Water damage with an estimated cost above EUR 2,000 will require an adjustment
+prior to payment.
+
+Art. 6. Exclusions.
+6.1 Damage due to lack of maintenance or pre-existing dampness.
+6.2 Damage arising from works or renovations not reported.
+6.3 Claims declared with false data or fraudulently.

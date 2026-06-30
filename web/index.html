@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>ClaimPilot — From any claim to an auditable file in minutes</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600;9..144,700&family=Hanken+Grotesk:wght@400;500;600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="/static/style.css" />
+</head>
+<body>
+  <!-- SVG icon sprite -->
+  <svg width="0" height="0" style="position:absolute" aria-hidden="true">
+    <defs>
+      <symbol id="i-shield" viewBox="0 0 24 24"><path d="M12 2 4 5v6c0 5 3.5 8.5 8 11 4.5-2.5 8-6 8-11V5l-8-3Z" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linejoin="round"/></symbol>
+      <symbol id="i-upload" viewBox="0 0 24 24"><path d="M12 16V4m0 0 4 4m-4-4-4 4M5 20h14" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/></symbol>
+      <symbol id="i-mic" viewBox="0 0 24 24"><path d="M12 15a3 3 0 0 0 3-3V6a3 3 0 0 0-6 0v6a3 3 0 0 0 3 3Zm6-3a6 6 0 0 1-12 0m6 6v3" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round"/></symbol>
+      <symbol id="i-image" viewBox="0 0 24 24"><rect x="3" y="4" width="18" height="16" rx="2" fill="none" stroke="currentColor" stroke-width="1.7"/><circle cx="8.5" cy="9.5" r="1.6" fill="currentColor"/><path d="m4 18 5-5 4 4 3-3 4 4" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linejoin="round"/></symbol>
+      <symbol id="i-pdf" viewBox="0 0 24 24"><path d="M7 3h7l5 5v13a1 1 0 0 1-1 1H7a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1Z" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linejoin="round"/><path d="M14 3v5h5" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linejoin="round"/></symbol>
+      <symbol id="i-doc" viewBox="0 0 24 24"><path d="M7 3h7l5 5v13a1 1 0 0 1-1 1H7a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1Z" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linejoin="round"/><path d="M9 12h6M9 16h6" stroke="currentColor" stroke-width="1.7" stroke-linecap="round"/></symbol>
+      <symbol id="i-check" viewBox="0 0 24 24"><path d="m5 13 4 4 10-10" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></symbol>
+      <symbol id="i-alert" viewBox="0 0 24 24"><path d="M12 4 2 20h20L12 4Z" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linejoin="round"/><path d="M12 10v4m0 3h.01" stroke="currentColor" stroke-width="1.7" stroke-linecap="round"/></symbol>
+      <symbol id="i-search" viewBox="0 0 24 24"><circle cx="11" cy="11" r="6" fill="none" stroke="currentColor" stroke-width="1.7"/><path d="m20 20-4-4" stroke="currentColor" stroke-width="1.7" stroke-linecap="round"/></symbol>
+      <symbol id="i-route" viewBox="0 0 24 24"><circle cx="6" cy="6" r="2.4" fill="none" stroke="currentColor" stroke-width="1.7"/><circle cx="18" cy="18" r="2.4" fill="none" stroke="currentColor" stroke-width="1.7"/><path d="M8.4 6H15a3 3 0 0 1 0 6H9a3 3 0 0 0 0 6h6.6" fill="none" stroke="currentColor" stroke-width="1.7"/></symbol>
+      <symbol id="i-flag" viewBox="0 0 24 24"><path d="M5 21V4m0 0 9 2-2 4 6 1.5L5 14" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linejoin="round"/></symbol>
+      <symbol id="i-arrow" viewBox="0 0 24 24"><path d="M5 12h14m-6-6 6 6-6 6" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></symbol>
+      <symbol id="i-download" viewBox="0 0 24 24"><path d="M12 4v12m0 0 4-4m-4 4-4-4M5 20h14" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/></symbol>
+    </defs>
+  </svg>
+
+  <header class="nav">
+    <div class="wrap nav-inner">
+      <a class="brand" href="/">
+        <svg class="brand-mark"><use href="#i-shield"/></svg>
+        <span>ClaimPilot</span>
+      </a>
+      <div class="nav-tag">OpenAI Agents SDK · Agentic FNOL</div>
+    </div>
+  </header>
+
+  <section class="hero">
+    <div class="hero-mesh" aria-hidden="true"></div>
+    <div class="wrap hero-inner">
+      <p class="eyebrow">Agentic claims intake</p>
+      <h1>From any claim,<br/>to an auditable file <em>in minutes</em>.</h1>
+      <p class="lede">
+        A call recording, a photo of the damage, a scanned form or a plain email —
+        ClaimPilot turns any evidence into a decision-ready claim file, with every
+        line cited to the policy and a human in the loop.
+      </p>
+      <div class="hero-meta">
+        <span>Multimodal evidence</span>
+        <span>Cited coverage</span>
+        <span>Full audit trail</span>
+        <span>100% synthetic data</span>
+      </div>
+    </div>
+  </section>
+
+  <main class="wrap stage">
+    <!-- INPUT -->
+    <section id="input-card" class="card workbench">
+      <div class="workbench-head">
+        <h2>New claim</h2>
+        <p>Drop any evidence. ClaimPilot reads it all.</p>
+      </div>
+
+      <div id="dropzone" class="dropzone" tabindex="0">
+        <svg class="dz-icon"><use href="#i-upload"/></svg>
+        <p class="dz-title">Drag &amp; drop evidence, or <span>browse</span></p>
+        <p class="dz-types">
+          <span><svg><use href="#i-mic"/></svg>Audio call</span>
+          <span><svg><use href="#i-image"/></svg>Photo</span>
+          <span><svg><use href="#i-pdf"/></svg>PDF</span>
+          <span><svg><use href="#i-doc"/></svg>Email / text</span>
+        </p>
+        <input id="file-input" type="file" multiple hidden
+               accept=".txt,.eml,.md,.pdf,.png,.jpg,.jpeg,.webp,.gif,.bmp,.mp3,.wav,.m4a,.ogg,.webm,.mp4,.flac" />
+      </div>
+
+      <ul id="file-list" class="file-list"></ul>
+
+      <div class="examples">
+        <span class="examples-label">Or try an example</span>
+        <div id="example-chips" class="chips"></div>
+      </div>
+
+      <details class="paste">
+        <summary>Paste text manually</summary>
+        <textarea id="text-input" rows="6" placeholder="Paste the claim email or notice here..."></textarea>
+      </details>
+
+      <button id="run-btn" class="btn-primary" disabled>
+        Process claim <svg><use href="#i-arrow"/></svg>
+      </button>
+      <p id="input-hint" class="hint"></p>
+    </section>
+
+    <!-- RUN (timeline + evidence) -->
+    <section id="run-card" class="card run hidden">
+      <div class="run-grid">
+        <div class="timeline-col">
+          <h3>Agent trace</h3>
+          <ol id="timeline" class="timeline"></ol>
+        </div>
+        <div class="evidence-col">
+          <h3>Evidence ingested</h3>
+          <ul id="evidence-list" class="evidence-list"></ul>
+        </div>
+      </div>
+    </section>
+
+    <!-- RESULTS -->
+    <section id="result-card" class="results hidden"></section>
+
+    <div id="reset-row" class="reset-row hidden">
+      <button id="reset-btn" class="btn-ghost">Process another claim</button>
+    </div>
+  </main>
+
+  <footer class="foot">
+    <div class="wrap">
+      <span>ClaimPilot · HCLTech–OpenAI Agentic AI Hackathon</span>
+      <span>Built with the OpenAI Agents SDK and Codex · synthetic data only</span>
+    </div>
+  </footer>
+
+  <script src="/static/app.js"></script>
+</body>
+</html>
