@@ -3,16 +3,7 @@
   "functions": {
     "server.py": {
       "maxDuration": 60,
-      "includeFiles": [
-        "web/**",
-        "synthetic_data/**"
-      ],
-      "excludeFiles": [
-        "**/__pycache__/**",
-        "**/*.pyc",
-        ".venv/**",
-        "venv/**"
-      ]
+      "includeFiles": "{web/**,synthetic_data/**}"
     }
   }
 }
